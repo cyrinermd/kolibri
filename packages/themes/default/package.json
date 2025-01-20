@@ -50,12 +50,12 @@
 	},
 	"devDependencies": {
 		"@public-ui/schema": "2.0.4",
-		"@public-ui/visual-tests": "2.0.4",
+		"@public-ui/visual-tests": "2.2.4",
 		"@types/node": "ts5.3",
-		"@typescript-eslint/eslint-plugin": "6.19.1",
-		"@typescript-eslint/parser": "6.19.1",
+		"@typescript-eslint/eslint-plugin": "6.21.0",
+		"@typescript-eslint/parser": "6.21.0",
 		"eslint": "8.56.0",
-		"eslint-plugin-no-loops": "0.3.0",
+		"eslint-plugin-no-loops": "0.4.0",
 		"rollup-plugin-postcss": "4.0.2",
 		"typescript": "5.3.3",
 		"unbuild": "1.2.1"
